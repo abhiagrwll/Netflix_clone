@@ -50,22 +50,22 @@ nav ul li a:hover
     
     color: green;
 }
-.navpg{
+.nav{
     padding:20px;
     height: 440px;
     width: 98%;
-    background-color: magenta;
+    background-color: plum;
     background-image: url(https://c4.wallpaperflare.com/wallpaper/302/588/989/purple-light-dots-purple-and-pink-circles-wallpaper-preview.jpg);
 
 }
-#text1{
+#text{
  
     color: white;
     text-align: right;
      font-style: bold;
     font-size: 90px;
  
-}.phoneimg{
+}.phoneimgs{
     float: left;
     height:300px;
     width: 200px;
@@ -86,7 +86,7 @@ height: 35px;
     height:45px ;
     width:220px;
 }
-.whyspotify{
+.whyspot{
     display: grid;
     grid-template-rows: 1fr 3fr;
     height: 600px;
@@ -95,18 +95,18 @@ height: 35px;
     
 
 }
-.top{
+.topspart{
     margin-bottom: 60px;
 }
-.top h1{
+.topspart h1{
     margin-left: 600px;
     
 }
-.card{
+.cardsss{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
-.cardss{
+.cardssss1{
     
     display: grid;
     grid-template-rows: 1fr 1fr;
@@ -116,14 +116,14 @@ height: 35px;
     position: relative;
     
 }
-.content{
+.contentsp{
     
     justify-content: center;
     align-items: center;
     text-align: center;
     
 }
-.dollar{
+.dollsign{
     margin-top: 17px;
 }
 .pic{
@@ -134,28 +134,28 @@ height: 35px;
     border-radius: 50%;
   
 }
-.box{
+.boxesss{
     border: 2px solid black;
     background-color: #da00ff;
     height:250px;
     display:flex;
     flex-flow: row wrap;
 }
-#free{
+#freeee{
     color:white;
     font-size:50px;
     position:absolute;
     left:500px;
     top:1150px;
 }
-#free1{
+#free12{
     color:white;
     font-size:50px;
     position:absolute;
     left:450px;
     top:1250px;
 }
-.question{
+.questionsss{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -205,14 +205,14 @@ section{
    
 }
 
-.box2{
+.boxes22{
     height:300px;
     width:2000px;
     display:flex;
     flex-flow: row wrap;
     background:url(https://st2.depositphotos.com/1428517/8070/i/600/depositphotos_80705952-stock-photo-macro-oxygen-bubbles-in-blue.jpg);}
 
-    #free2{
+    #free22{
         position:absolute;
         left:450px;
         top:1900px;
@@ -221,7 +221,7 @@ section{
         font-weight: 200;
         font-family: 'Times New Roman', Times, serif;
     }
-    #button2{
+    #button22{
         background-color:white;
         color:black;
         height: 35px;
